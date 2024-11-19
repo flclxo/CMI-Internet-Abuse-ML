@@ -1,2 +1,5 @@
 # Add virtual environments
 .my_env
+
+# Add kaggle dataset
+child_mind_dataset/
