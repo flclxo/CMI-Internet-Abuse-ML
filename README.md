@@ -25,4 +25,5 @@ Task 5: Final Report
 2. There should be a zip file that will be downloaded to your local repository.   
 Now in the command line, run ```unzip child-mind-institute-problematic-internet-use.zip```   
 This will download the entire kaggle dataset   
-Create a folder and name it ```child_mind_dataset```, this folder is already added to the .gitignore file to prevent large files like this from being pushed onto the remote repository.
+Create a folder and name it ```child_mind_dataset```, then move all the downloaded files and folders into it.   
+This folder is already added to the .gitignore file to prevent large files like this from being pushed onto the remote repository.
