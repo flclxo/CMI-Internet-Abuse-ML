@@ -3,7 +3,9 @@ Child Mind Institute — Problematic Internet Use
 
 https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use
 
-This is a data science project by Kelvin Yu, Daniel Kaijzer, Devin Xie, Bergen Bartolomeo, and Gabriel Delgado.
+We ranked top 25% at 887th place!
+
+This is a data science project by Kelvin Yu, Daniel Kaijzer, Devin Xie, Bergen and Gabriel Delgado.
 
 Final Presentations: Friday, December 13 and December 20 (1:45-3:45): 
 Monday, December 23: Final Reports due
