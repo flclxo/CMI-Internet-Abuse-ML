@@ -3,7 +3,7 @@ Child Mind Institute — Problematic Internet Use
 
 https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use
 
-We ranked top 25% at 887th place!
+We ranked top 25% at 889th place! https://www.kaggle.com/bartswift/competitions
 
 This is a data science project by Kelvin Yu, Daniel Kaijzer, Devin Xie, Bergen and Gabriel Delgado.
 
